@@ -2,9 +2,7 @@
 
 ---
 
-| **항목** | **HTTP
-(HyperText Transfer Protocol)** | **HTTPS
-(HyperText Transfer Protocol Secure)** |
+| **항목** | **HTTP(HyperText Transfer Protocol)** | **HTTPS(HyperText Transfer Protocol Secure)** |
 | --- | --- | --- |
 | **보안** | 암호화되지 않음 | SSL/TLS로 암호화 |
 | **속도** | HTTPS보다 빠름(암호화 부재) | 암호화로 인해 HTTP보다 약간 느림 |
